@@ -3,12 +3,7 @@
 
 > Results-driven Data Analyst with 4+ years transforming data into insights for Big Data & AI. Expert in Python, SQL, and Power BI. Driving data-informed decisions in the UAE.
 
-| Contact           |                                                                                          |
-| ----------------- | ---------------------------------------------------------------------------------------- |
-| **Email**         | [ranjith.ankilla@gmail.com](mailto:ranjith.ankilla@gmail.com)                            |
-| **LinkedIn**      | [linkedin.com/in/ankilla](https://www.linkedin.com/in/ankilla)                           |
-| **Portfolio**     | [ranjith.website](http://ranjith.website)                                                |
-| **Location**      | DUBAI, UAE                                                                               |
+| [ranjith.ankilla@gmail.com](mailto:ranjith.ankilla@gmail.com) | [linkedin.com/in/ankilla](https://www.linkedin.com/in/ankilla) | [ranjith.website](http://ranjith.website) | DUBAI, UAE
 
 ---
 
